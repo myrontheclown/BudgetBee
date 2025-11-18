@@ -1,0 +1,42 @@
+body {
+    background-color: #fff9cc;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+#welcome {
+    margin-top: 10px;
+    border: 20px;
+    border-color: black;
+}
+
+.container{
+    background-color: #ffef89;
+    border: 5px solid black;
+    padding: 30px 60px;
+    width: 50%;
+    border-radius: 15px;
+    text-align: center;
+}
+
+#logo {
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #007bff; 
+    color: white;
+    font-size: medium;
+    border:2px solid black;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
